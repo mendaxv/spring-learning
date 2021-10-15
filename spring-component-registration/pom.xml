@@ -8,7 +8,7 @@
     <artifactId>spring-component-registration</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
-    <description></description>
+    <description>bean注册到Spring容器的几种方式</description>
 
     <modules>
         <module>registration-xml</module>

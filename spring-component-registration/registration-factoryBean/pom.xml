@@ -10,6 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>registration-factoryBean</artifactId>
+    <description>通过FactoryBean接口注册bean</description>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>

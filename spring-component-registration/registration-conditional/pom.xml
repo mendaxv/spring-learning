@@ -10,6 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>registration-conditional</artifactId>
+    <description>按条件注册bean</description>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
